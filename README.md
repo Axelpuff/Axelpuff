@@ -1,6 +1,5 @@
 - I’m Axel
-- I know some stuff
-- Yeah
+- Check out the web development of Adjust [here](https://axelpuff.github.io/adjust-website/)!
 
 <!---
 Axelpuff/Axelpuff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
