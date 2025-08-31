@@ -1,4 +1,4 @@
-I'm Axel, a computer scientist and philosopher interested in AI and figuring out what ideas are actually important.
+I'm Axel, an aspiring computer scientist and philosopher interested in AI and figuring out what ideas are actually important.
 
 Previous work:
 - [Recent research on Eurisko](https://github.com/Axelpuff/EuriskoDoc) (HCRP Summer 2025)
