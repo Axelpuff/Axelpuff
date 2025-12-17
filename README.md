@@ -1,8 +1,9 @@
-I'm Axel, an aspiring computer scientist and philosopher interested in AI and figuring out what ideas are actually important.
+I'm Axel, a student and developer interested in designing elegant system and making abstract information tangible.
 
-Previous work:
+Some of my past projects:
+- [Hundred Schools Explorer](https://axelpuff.github.io/hundredschools/), an interactive 3D website presenting the classical Chinese philosophical landscape. Made with Three.js.
 - [Recent research on Eurisko](https://github.com/Axelpuff/EuriskoDoc) (HCRP Summer 2025)
-- Camel Hack Consiq repo is currently private but I'm working on making it public, here's the [demo video](https://youtu.be/0FzHEWtcDn4)
+- [Demo video](https://youtu.be/0FzHEWtcDn4) for Consiq, project for Camel Hackathon, April 2025.
 - Check out the [web deployment](https://axelpuff.github.io/adjust-website/) of [Adjust](https://github.com/Axelpuff/adjust), or watch the [demo video](https://youtu.be/AXsxM3JuK1c) (CS50 final project made using GCal API and Flutter)
 
 <!---
