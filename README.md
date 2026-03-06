@@ -9,7 +9,7 @@ Featured work:
   <summary>Hackathon projects: (click to expand)</summary>
   
   - Clarity (HackHarvard 2025): conversational AI assistant that helps improve users' schedules through natural dialogue (Next.js + GCal API + Gemini API). https://github.com/Axelpuff/Clarity
-  - Consiq: realtime detection of social manipulation attacks from a live audio stream (OpenAI API + Whisper).
+  - Consiq (Camel Hack 2025): realtime detection of social manipulation attacks from a live audio stream (OpenAI API + Whisper).
 </details>
 
 <!---
