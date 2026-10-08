@@ -1,9 +1,9 @@
-CS student @ Harvard.
+CS student at Harvard.
 
 Featured work:
 - Forthcoming multiplayer Roblox game: rebuilding a past project with 8M+ visits; adding procedural map generation and performant high-player-count servers. (I keep the Roblox account separate; happy to share more details / a demo privately.)
 - Hundred Schools Explorer: interactive 3D Three.js site visualizing classical Chinese philosophical schools (data visualization, 3D UI, responsive design). Live: https://axelpuff.github.io/hundredschools/
-- EuriskoDoc: research notes on the architecture of Eurisko (1970s AI system), diagrams + commentary (Harvard College Research Program, August 2025). https://github.com/Axelpuff/EuriskoDoc
+- EuriskoDoc: research notes on the architecture of Eurisko (1970s AI system), diagrams and commentary (Harvard College Research Program, August 2025). https://github.com/Axelpuff/EuriskoDoc
 
 <details>
   <summary>Hackathon projects: (click to expand)</summary>
